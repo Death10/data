@@ -5,8 +5,8 @@
     "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
     "link": "/novel/1",
     "month": "Tháng 07/2021",
-    "prev": "#;",
-    "next": "#;"
+    "prev": "https://data-six.vercel.app/data.json",
+    "next": "https://data-six.vercel.app/data2.json"
 }, {
     "cover": "https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg",
     "vol": "2",
