@@ -1,15 +1,15 @@
 [{
     "cover": "https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg",
-    "vol": "1",
+    "vol": "3",
     "date": "20/07/21",
     "name": "testing2",
     "link": "/novel/1",
     "month": "Tháng 07/2021",
-    "prev": "https://data-six.vercel.app/data2.json",
-    "next": "https://data-six.vercel.app/data.json"
+    "prev": "https://data-six.vercel.app/0OSLWF",
+    "next": "https://data-six.vercel.app/MU4HGH"
 }, {
     "cover": "https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg",
-    "vol": "2",
+    "vol": "4",
     "date": "20/07/21",
     "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
     "link": "/novel/2"
