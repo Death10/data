@@ -2,11 +2,11 @@
     "cover": "https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg",
     "vol": "1",
     "date": "20/07/21",
-    "name": "test2",
+    "name": "testing2",
     "link": "/novel/1",
     "month": "Tháng 07/2021",
-    "prev": "#;",
-    "next": "#;"
+    "prev": "https://data-six.vercel.app/data2.json",
+    "next": "https://data-six.vercel.app/data.json"
 }, {
     "cover": "https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg",
     "vol": "2",
