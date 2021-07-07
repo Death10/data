@@ -1,17 +1,16 @@
 [{
-	cover': 'https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg',
-	vol': '1',
-	date': '20/07/21',
-	name': 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e',
-	link': '/novel/1',
-	month': 'Tháng 07/2021',
-	prev': '#;',
-	next': '#;'
-},
-{
-	cover': 'https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg',
-	vol': '2',
-	date': '20/07/21',
-	name': 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e',
-	link': '/novel/2'
+'cover': 'https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg',
+'vol': '1',
+'date': '20/07/21',
+'name': 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e',
+'link': '/novel/1',
+'month': 'Tháng 07/2021',
+'prev': '#;',
+'next': '#;'
+}, {
+'cover': 'https://rimg.bookwalker.jp/9471834/eUnObgIVNjRTJtVUNQrbaQ__.jpg',
+'vol': '2',
+'date': '20/07/21',
+'name': 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e',
+'link': '/novel/2'
 }]
